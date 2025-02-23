@@ -14,7 +14,7 @@ const Services = () => {
                 </div>
 
                 <span className="services__button">
-                    View More{" "} <i className="uil uil-arrow-right services__button-icon"></i>
+                    View More <i className="uil uil-arrow-right services__button-icon"></i>
                 </span>
 
 
@@ -22,7 +22,7 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i className="uil uil-times services__modal-close"></i>
 
-                        <h3 className="services__modal-title"></h3>
+                        <h3 className="services__modal-title">Product Designer</h3>
                         <p className="services__modal-description">
                             Work experience more than 6 months. 
                             doing quality work and contributing with friends.
@@ -69,7 +69,7 @@ const Services = () => {
                 </div>
 
                 <span className="services__button">
-                    View More{""} <i className="uil uil-arrow-right services__button-icon"></i>
+                    View More <i className="uil uil-arrow-right services__button-icon"></i>
                 </span>
 
 
@@ -77,7 +77,7 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i className="uil uil-times services__modal-close"></i>
 
-                        <h3 className="services__modal-title"></h3>
+                        <h3 className="services__modal-title">Ui/Ux Designer</h3>
                         <p className="services__modal-description">
                             Work experience more than 6 months. 
                             doing quality work and contributing with friends.
@@ -120,11 +120,11 @@ const Services = () => {
             <div className="services__content">
                 <div>
                     <i className="uil uil services__icon"></i>
-                    <h3 className="services__title"></h3>
+                    <h3 className="services__title">Visual <br /> Designer</h3>
                 </div>
 
                 <span className="services__button">
-                    View More {""}<i className="uil uil-arrow-right services__button-icon"></i>
+                    View More <i className="uil uil-arrow-right services__button-icon"></i>
                 </span>
 
 
@@ -132,7 +132,7 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i className="uil uil-times services__modal-close"></i>
 
-                        <h3 className="services__modal-title"></h3>
+                        <h3 className="services__modal-title">Visual Designer</h3>
                         <p className="services__modal-description">
                             Work experience more than 6 months. 
                             doing quality work and contributing with friends.
@@ -171,6 +171,7 @@ const Services = () => {
                     </div>
                 </div>
             </div>
+
         </div>
     </section>
   )
