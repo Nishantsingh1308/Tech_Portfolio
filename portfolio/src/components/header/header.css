@@ -46,14 +46,19 @@
 /*  Active link */
 .active-link,
 .nav__icon:hover{
-    color: var(--title-color);
+    color: red;
 }
 
 .button butoon-flex{
     color: rgb(0, 0, 0);
 }
 
-/* ======== BreKPOINTS ========= */
+/* ======= change background header ========= */
+.scroll-header{
+    box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
+}
+
+/* ======== BreaKPOINTS ========= */
 
 /* for medium devices */
 @media screen and (max-width: 768px){
