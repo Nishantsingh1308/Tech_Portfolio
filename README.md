@@ -1,4 +1,5 @@
 My Tech Portfolio
+------------------------------------------------------------------------------
 🚀 Overview
 This is my personal tech portfolio built using React.js. It showcases about my projects, skills, education and experience in web development and software engineering.
 
