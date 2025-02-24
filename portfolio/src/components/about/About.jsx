@@ -26,7 +26,7 @@ const About = () => {
                         with the projects carried out.
                     </p>
 
-                    <a download href={CV} className="button button--flex">
+                    <a /*download href={CV} */ className="button button--flex">
                         Download Resume
                     </a>
 

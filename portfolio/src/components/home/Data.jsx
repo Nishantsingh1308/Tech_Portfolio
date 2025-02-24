@@ -10,7 +10,7 @@ const Data = () => {
             <Hand />
         </h1>
         <h3 className="home__subtitle">
-            Software Developer</h3>
+            MERN Stack Developer</h3>
 
             <p className="home__description">
                 I'm a creative Web Developer and Designer. I'm very passionate and dedicated to my work.
