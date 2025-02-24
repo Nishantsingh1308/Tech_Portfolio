@@ -23,12 +23,19 @@ Deployment: surge build/
 🔧 Installation
 -------------------------------------------------------------
 Clone the repository:
+
 git clone https://github.com/yourusername/your-portfolio.git
+
 cd your-portfolio
+
 Install dependencies:
+
 npm install  # or yarn install
+
 Run the development server:
+
 npm run dev  # or yarn dev
+
 Open https://sick-system.surge.sh/ in your browser.
 
 🚀 Deployment
