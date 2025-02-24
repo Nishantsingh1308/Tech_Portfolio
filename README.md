@@ -34,10 +34,14 @@ Open https://sick-system.surge.sh/ in your browser.
 🚀 Deployment
 ---------------------------------------------------------------
 To deploy the project on surge:
+
 npm build surge
 
 name:
+
 password:
+
 Domain:
+
 
 surge build/
